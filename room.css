@@ -1,0 +1,19 @@
+body {
+  background-image: url('https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.onlyinyourstate.com%2Fwp-content%2Fuploads%2F2016%2F02%2Fdrover.png&f=1&nofb=1');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: 0%;
+  width: 100%;
+  position: relative;
+  z-index: -1;
+}
+
+.card {
+  margin: 0%;
+  z-index: -1;
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-bottom: 5%;
+  opacity: 90%;
+}

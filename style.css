@@ -1,0 +1,56 @@
+body {
+  background-image: url('./paris.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: 0%;
+  width: 100%;
+  position: relative;
+  z-index: -1;
+}
+
+.card {
+  margin: 0%;
+  z-index: -1;
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-bottom: 5%;
+  opacity: 90%;
+}
+
+.card img {
+  border: 2px solid lightcoral;
+}
+
+.paris {
+  background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.plus-proche.com%2Fwp-content%2Fuploads%2F2018%2F05%2Frestaurant-paris.jpg&f=1&nofb=1');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  border-bottom: 2px solid lightcoral;
+  margin: 0%;
+  height: 1800px;
+  width: 100%;
+  position: relative;
+  z-index: -1;
+  padding-top: 2%;
+}
+
+.slide {
+  margin: 0%;
+  z-index: -1;
+  margin-left: 3%;
+  width: 60%;
+}
+
+.carousel-caption d-none d-md-block h5 {
+  text-shadow: 1px 1px #000;
+}
+
+carousel-caption d-none d-md-block p {
+  text-shadow: 1px 1px #000;
+}
+
+.textlove {
+  background-color: lightcoral;
+}
